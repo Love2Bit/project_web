@@ -53,3 +53,6 @@ img[atribut-style]{
     height: 100%;
     width: 100%;
 }
+.isi li{
+    list-style: none;
+}
